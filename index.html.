@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fotografía</title>
+    </head>
+    <style>
+
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+caption {
+   padding: 0.3em;
+   color: #fff;
+    background: #000;
+}
+th {
+   background: #eee;
+}
+        
+        h1{
+            color: rgb(242, 232, 119);
+            font-family:cursive;
+            font-style:italic
+            
+        }
+        
+        h2{
+            color: rgb(0, 0, 0);
+            font-family: cursive;
+        }
+        
+        body{
+            background-color: rgb(184, 140, 120);
+            font-family: cursive;
+            font-size: 17px;
+            font-size: 1.2em;
+        }
+
+        #Descripción {
+            background: white;
+            width: 25%;
+            height: 195px;
+            overflow-y:auto;
+            overflow-x:hidden;
+        }
+
+        #container {
+            margin: hidden;
+            border: 1px solid white;
+        }
+
+        #Fotos {
+            border: 6px ridge rgb(0, 0, 0);
+        }
+
+        .warning {
+                
+                background-color: rgb(255, 255, 255);
+                color: rgb(0, 0, 0);
+            }
+            
+            p.warning {
+                border: 10px solid rgb(255, 255, 255);
+
+      
+
+        
+    </style>
+    
+    <body>
+        
+        <div id="container">  
+    <h1><center>Fotografía</center></h1>
+    
+    <center><img id="Fotos" src="https://www.ecestaticos.com/image/clipping/1200/675/482ad12ecc3b28f4fa6278772d13b739/las-mejores-camaras-reflex-del-mercado-en-2020.jpg"width="830"height="490"></center>
+    
+    <p class="fact warning">En esta página voy a enseñarles a cerca de la <strong>fotografía</strong>, cómo por una foto puedes transmitir cualquier tipo de sentimiento.</p><br>
+
+    <div id="Descripción"><h3>Descripción:</h3>
+
+    <ul>
+        <li><a href="#Tipos de fotografía">Tipos de fotografia</a></li>
+        <li><a href="#Elementos de la imágen">Elementos de la fotografía</a></li>
+        <li><a href="#Importancia de la fotografía">¿Por qué es importante la fotografia?</a></li>
+        <li><a href="#Foto-reportaje">El foto-reportaje</a></li>
+        <li><a href="#Fotógrafos">Fotógrafos destacados</a></li>
+    </ul>
+    </div>
+    
+    <h1><center>Concepto</center></h1>
+    
+    <p><strong class="warning">Es el arte y la técnica</strong> de obtener imágenes duraderas debido a la acción de la luz. Es el proceso de proyectar imágenes, capturarlas y plasmarlas bien por medio del fijado en un medio sensible a la luz o por la conversión en señales electrónicas.</p><br>
+    
+    <h1 id="Tipos de fotografía"><center>Tipos de fotografía</center></h1>
+    <p>Podemos hablar de distintos tipos de fotografía dependiendo de su contexto:</p><br>
+    
+    <ul>
+        <li><strong>Fotografía publicitaria:</strong> La que alimenta la publicidad o el marketing, o sea, la promoción de bienes y servicios de consumo. Usualmente se la interviene digitalmente y se le hacen “correcciones” para hacerla más seductora.</li><br>
+        <center><img id="Fotos" src="https://ginlapocima.com/wp-content/uploads/slide-03.jpg"width="530"height="290"></center><br>
+        <li><strong>Fotografía de modas:</strong> Se toma en desfiles y eventos de moda, para mostrar prendas de vestir, peinados, maquillaje, etc. Va de la mano con la publicitaria, pero no suele hacérsele intervenciones digitales.</li><br>
+        <center><img id="Fotos" src="https://moda-hombre.com/wp-content/uploads/2020/07/Mejores-Marcas-de-Ropa-para-Hombre.jpg"width="570"height="390"></center><br>
+        <li><strong>Fotografía documental:</strong> Llamada también histórica o periodística, pues se hace con fines informativos, de reportaje, de valor histórico o de denuncia.</li><br>
+        <center><img id="Fotos" src="https://mott.pe/noticias/wp-content/uploads/2018/11/consejos-para-iniciarte-en-la-fotografia-documental.png"width="590"height="390"></center><br>
+        <li><strong>Fotografía paisajística:</strong> Se toma para reproducir la belleza natural de un paisaje, ya sea una tomas aérea, terrestre o submarina. Suelen ser abiertas y de mucho color.</li><br>
+        <center><img id="Fotos" src="https://milestones.es/wp-content/uploads/2014/08/Marc_Adamus.jpg"width="595"height="390"></center><br>
+        <li><strong>Fotografía científica:</strong> Se toma a través de telescopios, microscopios y otras herramientas científicas, con el fin de mostrar lo que comúnmente no se puede a simple vista.</li><br>
+        <center><img id="Fotos" src="https://www.fotonostra.com/fotografia/fotos/fotografiacientifica3.jpg"width="590"height="390"></center><br>
+        <li><strong>Fotografía artística:</strong> La que se toma con propósitos estéticos o experimentales, como montajes, composiciones, etc.</li><br>
+        <center><img id="Fotos" src="https://i.pinimg.com/originals/f5/89/23/f589232fab085a2936d56c3fd99b3a4b.jpg"width="564"height="607"></center><br>
+        <li><strong>Fotografía de retrato:</strong> Equivalente a la pintura de retratos de épocas pasadas, tiene el propósito de mostrar a alguien querido, o célebre, o hermoso, en algún momento determinado de su vida.</li><br>
+        <center><img id="Fotos" src="https://i.pinimg.com/736x/2d/59/20/2d59201f0caa7586ad2c225cb542e234.jpg"width="460"height="572"></center><br>
+
+    </ul>
+    <br>
+    <h1 id="Elementos de la imágen"><center>Elementos de la imágen</center></h1>
+    <center><img id="Fotos" src="https://www.elevencomunicacion.com/wp-content/uploads/2019/06/fotografia-profesional-1200px.jpg"width="530"height="390"></center><br> 
+    <p>A la hora de capturar la imagen, los fotógrafos toman en cuenta los siguientes elementos:</p><br>
+    
+    <table>
+        <thead>
+            <tr>
+                
+                <th>Elemento</th>
+                <th>Concepto</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Enfoque</td>
+                <td>La disposición justa de los lentes de la cámara que permite que la imagen se capture con la nitidez precisa, haciendo foco en los elementos importantes de la misma y no en el fondo.</td>
+                
+                
+            </tr>
+            
+            <tr>
+                <td>Apertura</td>
+                <td>El grado de apertura del diafragma, o sea, equivalente a la cantidad de luz que se deja entrar de golpe al presionar el obturador. A más cantidad de luz permitida, blancos más intensos y brumosos; a menor cantidad, fotografías oscuras.</td>
+                
+            </tr>
+            
+            <tr>
+                <td>Velocidad de obturación</td>
+                <td>La cantidad de tiempo durante la cual se expone la película o el sensor a la luz del exterior de la cámara. Si la luz ambiental es poca, requerirá mayores tiempos de exposición, y viceversa.</td>
+                
+            </tr>
+            
+            <tr>
+                <td>Balance de blancos</td>
+                <td>Sólo en los equipos digitales contemporáneos, el computador que hay dentro del aparato permite calibrar la temperatura del color, optando entre una luz más blanca (fría) o amarilla (cálida).</td>
+                
+            </tr>
+
+            <tr>
+                <td>Sensibilidad fotográfica</td>
+                <td>Antiguamente tenía que ver con el tipo de material fotosensible: algunos permitían captar más luz que otros, pues tenían distintos grados de sensibilidad. En los equipos digitales el sensor está programado para simular dichos efectos, permitiendo una mayor o menor sensibilidad según se desee.</td>
+
+            </tr>
+
+                    </tbody>
+                    
+    </table>
+    
+
+        <br>
+        <h1 id="Importancia de la fotografía"><center>¿Por qué es importante la fotografía?</center></h1>
+        
+        <p>La fotografía revolucionó para siempre la humanidad. La posibilidad de capturar imágenes de manera rápida y eficaz, pudiendo luego recuperarlas y exhibirlas, supuso un cambio en lo que hasta su aparición se consideraba la información, la mirada e incluso la verdad.</p>
+        
+        <p>La presencia de las cámaras, que incluso ahora llevamos en nuestros teléfonos celulares, nos permitió inmortalizar todo tipo de eventos. Además de poder compartir estas imágenes con amigos o extraños permite también denunciar eventos de los que, de otro modo, no habría quedado prueba alguna.</p><br>
+
+        
+        <h1 id="Foto-reportaje"><center>El foto-reportaje</center></h1>
+        
+        <p>El periodismo fue particularmente sensible a la incorporación de las imágenes que supuso la fotografía. La posibilidad de mostrar lo ocurrido y no sólo contar mediante el lenguaje, revolucionó los medios informativos de modo sólo comparable con la aparición de las películas y filmadoras audiovisuales.</p>
+        
+        <p>Además, de esta novedad tecnológica surgió un nuevo oficio y una nueva figura en el periodismo: el fotorreportero. Aunque muchos fotógrafos se dedican a diversas formas de la fotografía (artística, de eventos, moda, etc), en general los fotógrafos periodísticos dedican todo su tiempo a esta área.</p><br>
+        
+        <h1 id="Fotógrafos"><center>Fotógrafos destacados</center></h1>
+        
+        <p>Algunos destacados fotógrafos son o han sido:</p><br>
+        
+        <ul>
+            <li><strong>Henri Cartier-Bresson</strong>(Francés, 1908-2004).</li><br>
+            <center><img id="Fotos" src="https://maestrosdelafotografia.files.wordpress.com/2014/02/henri-cartier-bresson-009.jpg?w=640"width="460"height="288"></center><br>
+            <li><strong>Robert Doisneau</strong> (Francés, 1912-1994).</li><br>
+            <center><img id="Fotos" src="https://www.famousphotographers.net/images/robert-doisneau.jpg"width="600"height="374"></center><br>
+            <li><strong>Robert Capa</strong> (Húngaro, 1913-1954).</li><br>
+            <center><img id="Fotos" src="https://ilbolive.unipd.it/sites/default/files/imported/robertcapa.jpg"width="362"height="312"></center><br>
+            <li><strong>Diane Arbus</strong> (Estadounidense, 1923-1971).</li><br>
+            <center><img id="Fotos" src="https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydGlzdFwvaW1hZ2VGaWxlXC9tZi0yMDA4LTg5LWtvcGllLTIuanBnIiwicmVzaXplQ3JvcCw0MDAsNDAwLENST1BfRU5UUk9QWSJdfQ.CPzVVEWktnarEWBarBwaaWnpaQyg705xT7hS_yshwNY.jpg"width="400"height="400"></center><br>
+            <li><strong>Alberto Korda</strong> (Cubano, 1928-2001).</li><br>
+            <center><img id="Fotos" src="https://www.albertokorda.photo/wp-content/uploads/2020/01/korda_con_camara_1989.jpg"width="366"height="554"></center><br>
+            <li><strong>Joseph Koudelka</strong> (Checoeslovaco, 1938-)</li><br>
+            <center><img id="Fotos" src="https://media1.faz.net/ppmedia/aktuell/feuilleton/1265945524/1.5380871/format_top1_breit/den-horizont-im-blick-josef.jpg"width="860"height="430"></center><br>
+            <li><strong>Sebastião Salgado</strong> (Brasileño, 1944-).</li><br>
+            <center><img id="Fotos" src="https://www.institutoimago.com/wp-content/uploads/Figura31.jpeg"width="500"height="500"></center><br>
+            <li><strong>Annie Leibovitz</strong> (Estadounidense, 1949-).</li><br>
+            <center><img id="Fotos" src="http://3.bp.blogspot.com/-3u4rwHoTTUM/TmSnbqH6XSI/AAAAAAAAQnc/7IYnmAs5HkE/s1600/Leibovitz.jpg"width="450"height="289"></center><br>
+    
+        </ul>
+        <p>Aquí les comparto una página donde pueden aprender más sobre fotografía</p>
+        <p><em>Source: <a href="https://www.blogdelfotografo.com/aprender-fotografia/">Blog del fotografo</a></em></p><br>
+
+        <h2>Aura María Pérez Barrera 10°.</h2>
+        
+        
+    </body>
+</html>
